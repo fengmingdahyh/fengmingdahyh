@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="code.gif" width="430" height="100%" />
 
 -   <a href="http://xaiofeng.shop/home"><code><img  height="20" width="50" src="juejin.png"></code></a>：小冯域名网站
-
+<a href="https://fengmingdahyh.github.io/xiaofeng.github.io"><code><img height="20" width="50" src="juejin.png"></code></a>：小冯博客
 ### **技术栈:**
 
 <a href="https://v3.cn.vuejs.org"><code><img  height="20" src="vue.png"></code></a>
