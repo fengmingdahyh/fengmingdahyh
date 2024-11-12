@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="430" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img  height="20" width="50" src="juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="http://xaiofeng.shop/home"><code><img  height="20" width="50" src="juejin.png"></code></a>：小冯域名网站
 
 ### **技术栈:**
 
@@ -25,7 +25,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust) 
+[![]()](https://github.com/Minori-ty/mp4To4K-rust) 
 
 ### Github 活跃度
 
