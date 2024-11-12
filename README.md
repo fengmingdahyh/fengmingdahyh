@@ -24,7 +24,7 @@
 <a href="https://www.docker.com"><code><img  height="20" src="docker.png"></code></a>
 
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=fengmingdahyh&repo=python)](https://github.com/fengmingdahyh/python)
+[![](https://activity-graph.herokuapp.com/graph?username=fengmingdahyh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Github 活跃度
 
